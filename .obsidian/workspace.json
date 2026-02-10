@@ -9,49 +9,35 @@
         "dimension": 70.58823529411765,
         "children": [
           {
-            "id": "7922ded26a625424",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "7d1540620856cd68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "70515a1ee54be0ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plantilla.md",
+                "file": "picoCTF/10 - Nice netcat....md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plantilla"
+              "title": "10 - Nice netcat..."
+            }
+          },
+          {
+            "id": "7fb3c6b7662cb5ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Lets Warm Up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - Lets Warm Up"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "91db414701b9f377",
@@ -230,10 +216,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "70515a1ee54be0ac",
+  "active": "7fb3c6b7662cb5ca",
   "lastOpenFiles": [
-    "README.md",
+    "picoCTF/2-2Warm.md",
+    "picoCTF/4 - Bases.md",
+    "picoCTF/5 - First grep.md",
+    "picoCTF/3-Warmed Up.md",
+    "1 - Lets Warm Up.md",
+    "picoCTF/10 - Nice netcat....md",
+    "picoCTF/9 - Glitch Cat.md",
+    "picoCTF/7 - What's a net cat.md",
     "plantilla.md",
+    "README.md",
     "picoCTF",
     "Welcome.md"
   ]
