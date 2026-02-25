@@ -8,76 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2174054dc0e79ef0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/31 - Insp3ct0r.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "31 - Insp3ct0r"
-            }
-          },
-          {
-            "id": "ecc312825904709d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/32 - where are the robots.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "32 - where are the robots"
-            }
-          },
-          {
-            "id": "5a4b8261acc5b297",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/33 - logon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "33 - logon"
-            }
-          },
-          {
-            "id": "778adaf0aa29f060",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/34 - dont-use-client-side.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "34 - dont-use-client-side"
-            }
-          },
-          {
-            "id": "17282f737a858fb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/35 - picobrowser.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "35 - picobrowser"
-            }
-          },
-          {
             "id": "038635dbc5f93994",
             "type": "leaf",
             "state": {
@@ -90,9 +20,51 @@
               "icon": "lucide-file",
               "title": "36 - Client-side-again"
             }
+          },
+          {
+            "id": "65afb679ed6b7f7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/37 - GET aHEAD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "37 - GET aHEAD"
+            }
+          },
+          {
+            "id": "5393b00e8f343074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/38 - Cookies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "38 - Cookies"
+            }
+          },
+          {
+            "id": "76f18b9270fb5f79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/39 - Scavenger Hunt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "39 - Scavenger Hunt"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -254,16 +226,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "038635dbc5f93994",
+  "active": "76f18b9270fb5f79",
   "lastOpenFiles": [
-    "picoCTF/35 - picobrowser.md",
+    "picoCTF/37 - GET aHEAD.md",
+    "picoCTF/39 - Scavenger Hunt.md",
+    "picoCTF/38 - Cookies.md",
+    "picoCTF/T1_10 - ASCII Numbers.md",
     "picoCTF/36 - Client-side-again.md",
+    "picoCTF/35 - picobrowser.md",
     "picoCTF/34 - dont-use-client-side.md",
     "picoCTF/33 - logon.md",
     "picoCTF/32 - where are the robots.md",
     "picoCTF/31 - Insp3ct0r.md",
     "picoCTF/30 - Serpentine.md",
-    "picoCTF/T1_10 - ASCII Numbers.md",
     "picoCTF/T1_9 - binhexa.md",
     "picoCTF/T1_8 - Binary Search.md",
     "picoCTF/T1_7 - Collaborative Development.md",
@@ -279,9 +254,6 @@
     "picoCTF/26 - fixme2.py.md",
     "picoCTF/25 - fixme1.py.md",
     "picoCTF/24 - convertme.py.md",
-    "picoCTF/23 - Codebook.md",
-    "picoCTF/22 - runme.py.md",
-    "README.md",
     "picoCTF"
   ]
 }
