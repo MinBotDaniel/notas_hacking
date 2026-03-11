@@ -8,91 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ba17b8a33e19496",
+            "id": "b3d2c2896357a916",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/46 - Most Cookies.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "46 - Most Cookies"
-            }
-          },
-          {
-            "id": "50f9ba9ecbb95f73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/47 - Glory of garden.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "47 - Glory of garden"
-            }
-          },
-          {
-            "id": "cb2f8a6aacd3b51f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/48 - So Meta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "48 - So Meta"
-            }
-          },
-          {
-            "id": "7551dce47d33be94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/49 - shark on wire 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "49 - shark on wire 1"
-            }
-          },
-          {
-            "id": "d378ba6d655cd109",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/50 - extensions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "50 - extensions"
-            }
-          },
-          {
-            "id": "cd1477554ae99ab0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/51 - What Lies Within.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "51 - What Lies Within"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,36 +179,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "cd1477554ae99ab0",
+  "active": "532b37a87dd0b246",
   "lastOpenFiles": [
-    "picoCTF/50 - extensions.md",
-    "picoCTF/51 - What Lies Within.md",
-    "picoCTF/49 - shark on wire 1.md",
-    "picoCTF/48 - So Meta.md",
-    "picoCTF/47 - Glory of garden.md",
-    "picoCTF/T2_10 - WebDecode.md",
-    "picoCTF/T2_9 - Unminify.md",
-    "picoCTF/T2_8 - SQLiLite.md",
-    "picoCTF/T2_7 - Secrets.md",
-    "picoCTF/T2_6 - Roboto Sans.md",
-    "picoCTF/T2_4 - Local Authority.md",
-    "picoCTF/T2_3 - IntroToBurp.md",
-    "picoCTF/T2_2 - Inspect HTML.md",
-    "picoCTF/46 - Most Cookies.md",
-    "picoCTF/41 - More SQLi.md",
-    "picoCTF/40 - Irish-Name-Repo 1.md",
-    "picoCTF/39 - Scavenger Hunt.md",
-    "picoCTF/38 - Cookies.md",
-    "picoCTF/37 - GET aHEAD.md",
-    "picoCTF/35 - picobrowser.md",
-    "picoCTF/33 - logon.md",
-    "picoCTF/36 - Client-side-again.md",
-    "picoCTF/T2_5 - Power Cookie.md",
-    "picoCTF/32 - where are the robots.md",
+    "picoCTF/3-Forensic/56 - shark on wire 2.md",
+    "picoCTF/3-Forensic/55 - like1000.md",
+    "picoCTF/3-Forensic/54 - c0rrupt.md",
+    "picoCTF/3-Forensic/53 - WhitePages.md",
+    "picoCTF/3-Forensic/50 - extensions.md",
+    "picoCTF/3-Forensic/49 - shark on wire 1.md",
+    "picoCTF/3-Forensic/52 - m00nwalk.md",
+    "picoCTF/3-Forensic/51 - What Lies Within.md",
+    "picoCTF/3-Forensic/48 - So Meta.md",
+    "picoCTF/3-Forensic/47 - Glory of garden.md",
+    "picoCTF/3-Forensic",
+    "picoCTF/2-Web/45 - Trickster.md",
+    "picoCTF/2-Web/46 - Most Cookies.md",
+    "picoCTF/2-Web/44 - SOAP.md",
+    "picoCTF/2-Web/43 - MatchTheRegex.md",
+    "picoCTF/2-Web/42 - JaWT Scratchpad.md",
+    "picoCTF/2-Web/41 - More SQLi.md",
+    "picoCTF/2-Web/40 - Irish-Name-Repo 1.md",
+    "picoCTF/2-Web/39 - Scavenger Hunt.md",
+    "picoCTF/2-Web/37 - GET aHEAD.md",
+    "picoCTF/2-Web/38 - Cookies.md",
+    "picoCTF/2-Web/34 - dont-use-client-side.md",
+    "picoCTF/2-Web/36 - Client-side-again.md",
+    "picoCTF/2-Web/35 - picobrowser.md",
+    "picoCTF/2-Web/33 - logon.md",
+    "picoCTF/2-Web/32 - where are the robots.md",
+    "picoCTF/2-Web/31 - Insp3ct0r.md",
+    "picoCTF/2-Web",
+    "picoCTF/1-General_Skills",
+    "picoCTF/Tareas",
+    "picoCTF/New folder",
+    "picoCTF/General_Skills",
+    "picoCTF/Web",
+    "picoCTF/Forensic",
+    "Pasted image 20260311171755.png",
+    "Pasted image 20260311171733.png",
     "Pasted image 20260306210856.png",
     "Pasted image 20260306203911.png",
-    "picoCTF/T2_1 - Includes.md",
-    "picoCTF/31 - Insp3ct0r.md",
     "picoCTF"
   ]
 }
