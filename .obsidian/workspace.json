@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d4f66c0c2a6a33de",
+            "id": "7ccde94319d6c534",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Concurso/bytemancy 0.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "bytemancy 0"
             }
           }
         ]
@@ -179,8 +183,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "d4f66c0c2a6a33de",
+  "active": "7ccde94319d6c534",
   "lastOpenFiles": [
+    "picoCTF/Concurso/Timeline 0.md",
+    "picoCTF/Concurso/bytemancy 0.md",
+    "picoCTF/Concurso/SUDO MAKE ME A SANDWICH.md",
+    "picoCTF/Concurso/Printer Shares.md",
+    "picoCTF/Concurso/Piece by Piece.md",
+    "picoCTF/Concurso/DISKO 4.md",
+    "picoCTF/Concurso/Binary Digits.md",
+    "picoCTF/Concurso/Secret Box.md",
+    "picoCTF/Concurso/Credential Stuffing.md",
+    "picoCTF/Concurso/Old Sessions.md",
     "picoCTF/3-Forensic/61 - MacroHard WeakEdge.md",
     "picoCTF/3-Forensic/60 - tunn3l v1s10n.md",
     "picoCTF/3-Forensic/59 - Matryoshka doll.md",
@@ -189,7 +203,6 @@
     "picoCTF/Exam/Ex3 - flag_shop.md",
     "picoCTF/Exam/Ex2 - dont-you-love-banners.md",
     "picoCTF/Exam/Ex1 - FANTASY CTF.md",
-    "picoCTF/Concurso/Web3 - Secret Box.md",
     "picoCTF/3-Forensic/47 - Glory of garden.md",
     "Pasted image 20260318105710.png",
     "Pasted image 20260318101227.png",
@@ -201,18 +214,10 @@
     "picoCTF/3-Forensic/53 - WhitePages.md",
     "picoCTF/3-Forensic/54 - c0rrupt.md",
     "picoCTF/2-Web/46 - Most Cookies.md",
-    "picoCTF/Concurso/Web2 - Credential Stuffing.md",
     "Pasted image 20260315144019.png",
     "Pasted image 20260315144015.png",
-    "picoCTF/Concurso/Web1 - Old Sessions.md",
     "Pasted image 20260315141236.png",
-    "picoCTF/2-Web/34 - dont-use-client-side.md",
-    "picoCTF/2-Web/33 - logon.md",
-    "picoCTF/2-Web/32 - where are the robots.md",
-    "picoCTF/2-Web/31 - Insp3ct0r.md",
     "picoCTF/Concurso",
-    "picoCTF/3-Forensic/55 - like1000.md",
-    "picoCTF/3-Forensic/50 - extensions.md",
     "picoCTF/3-Forensic",
     "picoCTF/2-Web",
     "picoCTF/1-General_Skills",
