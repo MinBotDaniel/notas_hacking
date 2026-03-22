@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6371dc814b934980",
+        "id": "32c8445deb262901",
         "type": "tabs",
         "children": [
           {
-            "id": "7ccde94319d6c534",
+            "id": "8ea1c1b92c74ca9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Concurso/bytemancy 0.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "bytemancy 0"
+              "title": "New tab"
             }
           }
         ]
@@ -183,10 +179,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "7ccde94319d6c534",
+  "active": "8ea1c1b92c74ca9d",
   "lastOpenFiles": [
-    "picoCTF/Concurso/Timeline 0.md",
+    "picoCTF/Exam/Ex11 - SSTI2.md",
+    "picoCTF/Exam/Ex7 - SSTI1.md",
+    "picoCTF/Exam/Ex10 - SQL Direct.md",
+    "picoCTF/Exam/Ex9 - Java Code Analysis.md",
+    "picoCTF/Exam/Ex8 - findme.md",
+    "Pasted image 20260322145023.png",
+    "Pasted image 20260322131122.png",
+    "picoCTF/Exam/Ex6 - head-dump.md",
+    "picoCTF/Exam/Ex5 - Cookie Monster Secret Recipe.md",
+    "picoCTF/Exam/Ex4 - Bookmarklet.md",
+    "Pasted image 20260322121800.png",
+    "picoCTF/Exam/Ex3 - flag_shop.md",
     "picoCTF/Concurso/bytemancy 0.md",
+    "picoCTF/Concurso/Timeline 0.md",
     "picoCTF/Concurso/SUDO MAKE ME A SANDWICH.md",
     "picoCTF/Concurso/Printer Shares.md",
     "picoCTF/Concurso/Piece by Piece.md",
@@ -200,20 +208,11 @@
     "picoCTF/3-Forensic/59 - Matryoshka doll.md",
     "picoCTF/3-Forensic/58 - WebNet1.md",
     "picoCTF/3-Forensic/57 - WebNet0.md",
-    "picoCTF/Exam/Ex3 - flag_shop.md",
     "picoCTF/Exam/Ex2 - dont-you-love-banners.md",
     "picoCTF/Exam/Ex1 - FANTASY CTF.md",
-    "picoCTF/3-Forensic/47 - Glory of garden.md",
     "Pasted image 20260318105710.png",
     "Pasted image 20260318101227.png",
-    "picoCTF/3-Forensic/56 - shark on wire 2.md",
     "picoCTF/Exam",
-    "picoCTF/2-Web/41 - More SQLi.md",
-    "picoCTF/2-Web/40 - Irish-Name-Repo 1.md",
-    "picoCTF/2-Web/39 - Scavenger Hunt.md",
-    "picoCTF/3-Forensic/53 - WhitePages.md",
-    "picoCTF/3-Forensic/54 - c0rrupt.md",
-    "picoCTF/2-Web/46 - Most Cookies.md",
     "Pasted image 20260315144019.png",
     "Pasted image 20260315144015.png",
     "Pasted image 20260315141236.png",
@@ -227,8 +226,6 @@
     "picoCTF/Web",
     "picoCTF/Forensic",
     "Pasted image 20260311171755.png",
-    "Pasted image 20260311171733.png",
-    "Pasted image 20260306210856.png",
-    "Pasted image 20260306203911.png"
+    "Pasted image 20260311171733.png"
   ]
 }
