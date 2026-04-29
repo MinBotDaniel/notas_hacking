@@ -8,20 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "22723c8dda29b22b",
+            "id": "83b010f24379cec2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tareas/T4_10 - Vigenere.md",
+                "file": "picoCTF/5-Reversing/1 - vault-door-training.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T4_10 - Vigenere"
+              "title": "1 - vault-door-training"
+            }
+          },
+          {
+            "id": "93612f70ca7d58b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/5-Reversing/2 - vault-door-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 - vault-door-1"
+            }
+          },
+          {
+            "id": "be4841fced422e1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/5-Reversing/3 - vault-door-3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 - vault-door-3"
+            }
+          },
+          {
+            "id": "79bd4b6d124ec42c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/5-Reversing/4 - vault-door-4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 - vault-door-4"
+            }
+          },
+          {
+            "id": "c712239b4fa4dcc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/5-Reversing/5 - vault-door-5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5 - vault-door-5"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -183,37 +240,39 @@
       "bases:Create new base": false
     }
   },
-  "active": "22723c8dda29b22b",
+  "active": "c712239b4fa4dcc8",
   "lastOpenFiles": [
-    "picoCTF/Tareas/T4_9 - substitution2.md",
-    "picoCTF/Tareas/T4_10 - Vigenere.md",
+    "picoCTF/5-Reversing/4 - vault-door-4.md",
+    "picoCTF/5-Reversing/5 - vault-door-5.md",
+    "Pasted image 20260429112615.png",
+    "picoCTF/5-Reversing/3 - vault-door-3.md",
+    "Pasted image 20260429111633.png",
+    "picoCTF/5-Reversing/2 - vault-door-1.md",
+    "picoCTF/5-Reversing/1 - vault-door-training.md",
     "picoCTF/Tareas/T4_8 - substitution1.md",
+    "picoCTF/5-Reversing",
+    "picoCTF/Tareas/T4_10 - Vigenere.md",
+    "picoCTF/Tareas/T4_9 - substitution2.md",
+    "picoCTF/Tareas/T4_3 - EVEN RSA CAN BE BROKEN.md",
+    "picoCTF/Tareas/T4_1 - Crack the Power.md",
     "picoCTF/Tareas/T4_7 - substitution0.md",
     "picoCTF/Tareas/T4_6 - rail-fence.md",
     "picoCTF/Tareas/T4_5 - morse-code.md",
     "Pasted image 20260423213913.png",
     "picoCTF/Tareas/T4_4 - hashcrack.md",
-    "picoCTF/Tareas/T4_3 - EVEN RSA CAN BE BROKEN.md",
     "picoCTF/Tareas/T4_2 - credstuff.md",
-    "picoCTF/Tareas/T4_1 - Crack the Power.md",
     "picoCTF/Tareas/T2_10 - WebDecode.md",
     "picoCTF/4-Crypto/18 - Flags.md",
     "picoCTF/4-Crypto/17 - ReadMyCert.md",
     "picoCTF/4-Crypto/16 - HideToSee.md",
     "picoCTF/4-Crypto/15 - basic-mod1.md",
     "picoCTF/4-Crypto/14 - Pixelated.md",
-    "Untitled",
     "Pasted image 20260422113000.png",
     "picoCTF/4-Crypto/13 - b00tl3gRSA3.md",
     "picoCTF/4-Crypto/12 - b00tl3gRSA2.md",
     "picoCTF/4-Crypto/11 - Mind your Ps and Qs.md",
     "picoCTF/4-Crypto/10 - Mini RSA.md",
     "picoCTF/3-Forensic/53 - WhitePages.md",
-    "picoCTF/3-Forensic/52 - m00nwalk.md",
-    "picoCTF/3-Forensic/54 - c0rrupt.md",
-    "picoCTF/4-Crypto/9 - rsa-pop-quiz.md",
-    "picoCTF/3-Forensic/57 - WebNet0.md",
-    "picoCTF/3-Forensic/60 - tunn3l v1s10n.md",
     "Pasted image 20260413114914.png",
     "picoCTF/4-Crypto",
     "Pasted image 20260322145023.png",
@@ -222,8 +281,6 @@
     "Pasted image 20260318105710.png",
     "Pasted image 20260318101227.png",
     "picoCTF/Exam",
-    "Pasted image 20260315144019.png",
-    "Pasted image 20260315144015.png",
     "picoCTF/Concurso",
     "picoCTF/3-Forensic",
     "picoCTF/2-Web",
