@@ -4,137 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "32c8445deb262901",
+        "id": "3fa857510be5152a",
         "type": "tabs",
         "children": [
           {
-            "id": "83b010f24379cec2",
+            "id": "215f336f465e9789",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/5-Reversing/1 - vault-door-training.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1 - vault-door-training"
-            }
-          },
-          {
-            "id": "93612f70ca7d58b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/5-Reversing/2 - vault-door-1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 - vault-door-1"
-            }
-          },
-          {
-            "id": "be4841fced422e1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/5-Reversing/3 - vault-door-3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3 - vault-door-3"
-            }
-          },
-          {
-            "id": "c9599e265b1d8bbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/5-Reversing/6 - Safe Opener 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6 - Safe Opener 2"
-            }
-          },
-          {
-            "id": "bc589a7a05e2ee38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/5-Reversing/7 - timer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7 - timer"
-            }
-          },
-          {
-            "id": "ed5600870d8f1809",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/5-Reversing/8 - Picker I.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8 - Picker I"
-            }
-          },
-          {
-            "id": "0e589d70e7c13228",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/5-Reversing/9 - Picker II.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9 - Picker II"
-            }
-          },
-          {
-            "id": "44768426b9ac8554",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/5-Reversing/10 - Picker III.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10 - Picker III"
-            }
-          },
-          {
-            "id": "4a8056a25135b9d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/5-Reversing/11 - Picker IV.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11 - Picker IV"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,10 +179,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "4a8056a25135b9d7",
+  "active": "215f336f465e9789",
   "lastOpenFiles": [
-    "picoCTF/5-Reversing/10 - Picker III.md",
+    "picoCTF/5-Reversing/14 - asm3.md",
+    "picoCTF/5-Reversing/13 - asm2.md",
+    "picoCTF/5-Reversing/12 - asm1.md",
     "picoCTF/5-Reversing/11 - Picker IV.md",
+    "picoCTF/5-Reversing/10 - Picker III.md",
     "picoCTF/5-Reversing/9 - Picker II.md",
     "picoCTF/5-Reversing/8 - Picker I.md",
     "picoCTF/5-Reversing/7 - timer.md",
@@ -325,9 +211,6 @@
     "picoCTF/Tareas/T4_2 - credstuff.md",
     "picoCTF/Tareas/T2_10 - WebDecode.md",
     "picoCTF/4-Crypto/18 - Flags.md",
-    "picoCTF/4-Crypto/17 - ReadMyCert.md",
-    "picoCTF/4-Crypto/16 - HideToSee.md",
-    "picoCTF/4-Crypto/15 - basic-mod1.md",
     "Pasted image 20260422113000.png",
     "Pasted image 20260413114914.png",
     "picoCTF/4-Crypto",
