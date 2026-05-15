@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3fa857510be5152a",
+        "id": "691944ce622a0b0d",
         "type": "tabs",
         "children": [
           {
-            "id": "215f336f465e9789",
+            "id": "92f563e5a3ee3c91",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,8 +179,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "215f336f465e9789",
+  "active": "92f563e5a3ee3c91",
   "lastOpenFiles": [
+    "picoCTF/Tareas/T3_9 - Ph4nt0m 1ntrud3r.md",
+    "picoCTF/Tareas/T3_8 - RED.md",
+    "picoCTF/Tareas/T3_7 - Secret of the Polyglot.md",
+    "picoCTF/Tareas/T3_6 - CanYouSee.md",
+    "picoCTF/Tareas/T3_5 - Scan Surprise.md",
+    "picoCTF/Tareas/T3_4 - hideme.md",
+    "picoCTF/Tareas/T3_3 - Redaction gone wrong.md",
+    "picoCTF/Tareas/T3_2 - St3g0.md",
+    "picoCTF/Tareas/T3_1- Information.md",
+    "Pasted image 20260514194748.png",
+    "picoCTF/Tareas/T4_1 - Crack the Power.md",
     "picoCTF/5-Reversing/14 - asm3.md",
     "picoCTF/5-Reversing/13 - asm2.md",
     "picoCTF/5-Reversing/12 - asm1.md",
@@ -200,17 +211,7 @@
     "picoCTF/Tareas/T4_8 - substitution1.md",
     "picoCTF/5-Reversing",
     "picoCTF/Tareas/T4_10 - Vigenere.md",
-    "picoCTF/Tareas/T4_9 - substitution2.md",
-    "picoCTF/Tareas/T4_3 - EVEN RSA CAN BE BROKEN.md",
-    "picoCTF/Tareas/T4_1 - Crack the Power.md",
-    "picoCTF/Tareas/T4_7 - substitution0.md",
-    "picoCTF/Tareas/T4_6 - rail-fence.md",
-    "picoCTF/Tareas/T4_5 - morse-code.md",
     "Pasted image 20260423213913.png",
-    "picoCTF/Tareas/T4_4 - hashcrack.md",
-    "picoCTF/Tareas/T4_2 - credstuff.md",
-    "picoCTF/Tareas/T2_10 - WebDecode.md",
-    "picoCTF/4-Crypto/18 - Flags.md",
     "Pasted image 20260422113000.png",
     "Pasted image 20260413114914.png",
     "picoCTF/4-Crypto",
@@ -218,7 +219,6 @@
     "Pasted image 20260322131122.png",
     "Pasted image 20260322121800.png",
     "Pasted image 20260318105710.png",
-    "Pasted image 20260318101227.png",
     "picoCTF/Exam",
     "picoCTF/Concurso",
     "picoCTF/3-Forensic",
